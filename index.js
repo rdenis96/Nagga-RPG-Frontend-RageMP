@@ -1,0 +1,1 @@
+require('NaggaServer/index.js');
